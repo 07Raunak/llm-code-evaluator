@@ -40,8 +40,7 @@ cpp
 Copy
 Edit
 http://127.0.0.1:8000/
-📸 Screenshots
-You can add screenshots here later
+
 
 📚 Use Case
 This tool is ideal for:
@@ -55,7 +54,6 @@ Teaching or benchmarking best practices in coding interviews or coursework
 👨‍💻 Author
 Raunak Kumar
 📧 raunak2002pcc@gmail.com
-🔗 LinkedIn
 
 This project reflects my ability to analyze, critique, and improve code — a key requirement for AI code assistant roles.
 
@@ -63,27 +61,6 @@ yaml
 Copy
 Edit
 
----
-
-### ✅ How to Use It
-
-1. Go to your repo: [https://github.com/07Raunak/llm-code-evaluator](https://github.com/07Raunak/llm-code-evaluator)
-2. Click the **README.md** file
-3. Click the **pencil icon ✏️ (Edit this file)**
-4. Paste the full content above
-5. Scroll down → Add commit message: `Update README`
-6. ✅ Commit directly to main branch
-
----
-
-Let me know when done — and I’ll get you started on **Project 3: Benchmark Code Examples – What Good Looks Like**.
-
-
-
-
-
-
-
-
-Ask ChatGPT
+--
+-
 
